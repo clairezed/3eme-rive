@@ -1,17 +1,33 @@
-# Skinny Bones Jekyll Starter
+# 3ème rive, café associatif Epinal - website
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+## How to use
 
-I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
+Shared config (used both in production and development) is in `_config.yml`.
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
+The file `_config.dev.yml` is used only in dev, in addition to `_config.yml`, to override specific data.
 
----
+Launching development server :
 
-## Notable Features
+```bash
+bundle exec jekyll serve --config _config.yml,_config.dev.yml
+```
+You should reach your website at [localhost:4000](localhost:4000)
 
-* Jekyll 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
+
+## Specificities
+
+- One config file per environnement (see above, "How to Use")
+- All pages are in `_pages` folder. You may need to specify page permalink in page file frontmatter.
+
+
+## Ressources
+
+### Netlify
+
+- [CMS](https://www.netlifycms.org/)
+- [Netlify docs](https://www.netlify.com/docs/)
+
+
+## Credits
+
+This website is based on the [Made Mistakes](http://mademistakes.com)  theme [Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/).

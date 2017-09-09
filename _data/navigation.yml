@@ -1,6 +1,11 @@
 # Site navigation links
 
-- title:
-  url:
+- title: A propos de 3ème rive
+  url: /en-savoir-plus
+  excerpt:
+  image:
+
+- title: Participer
+  url: /participer
   excerpt:
   image:
