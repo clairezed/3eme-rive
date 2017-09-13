@@ -5,7 +5,7 @@ title: A propos de 3ème rive
 
 ## A l'origine
 
-Depuis 3 ans, l’association Epinal En Transition impulse sur le territoire d’Epinal, par ses actions, une démarche de transition vers une société solidaire et durable. Si ces actions fédèrent peu à peu un nombre croissant d’acteurs et d’individus, elles sont ponctuelles et ne s’inscrivent pas dans un lieu précis. Le besoin d’inscrire tout ou partie des activités d’Epinal en Trans entre quatre murs est présent depuis de nombreux mois.
+Depuis 3 ans, l’association Epinal En Transition impulse sur le territoire d’Epinal, par ses actions, une démarche de transition vers une société solidaire et durable. Si ces actions fédèrent peu à peu un nombre croissant d’acteurs et d’individus, elles sont ponctuelles et ne s’inscrivent pas dans un lieu précis. Le besoin d’inscrire tout ou partie des activités d’Epinal en Transition entre quatre murs est présent depuis de nombreux mois.
 
 Rapidement pourtant, la définition de ce besoin évolue et s’émancipe d’Epinal en Transition. L’envie qui émerge est celle de monter un lieu rassembleur, qui favorise l’implication, l’autonomie et les initiatives collectives.
 
