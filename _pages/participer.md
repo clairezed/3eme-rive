@@ -7,7 +7,12 @@ Vous êtes un individu ou une structure et vous souhaitez participer au café ?
 
 Contactez-nous : [contact@3eme-rive.org](mailto:contact@3eme-rive.org)
 
-- Pour être informé.e des informations essentielles : [Liste mails de diffusion](https://framalistes.org/sympa/info/3e-rive-diffusion)
+## Les listes de diffusion
+
+Pour être informé.e régulièrement des avancées du café, abonnez-vous aux listes de diffusion mail ci-dessous : 
+
+-  [Liste de diffusion pour les citoyens](https://framalistes.org/sympa/subscribe/3eme-rive-sympa-citoyens)
+-  [Liste de diffusion pour les partenaires (associations et autres structures)](https://framalistes.org/sympa/subscribe/3eme-rive-sympa-partenaires)
 
 ## Documents utiles
 
