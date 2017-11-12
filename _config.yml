@@ -11,7 +11,7 @@ feed:
 
 # Social settings ------------------------------------
 github_username: clairezed
-twitter_username: ZooletteDesBois
+# twitter_username: ZooletteDesBois
 
 # Build settings --------------------------------------
 markdown: kramdown
