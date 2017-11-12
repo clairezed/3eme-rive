@@ -1,0 +1,76 @@
+---
+layout: home
+permalink: /
+page-lead: true
+image:
+  feature: home-feature.jpg
+---
+
+<div class="wrap">
+
+
+  <!-- Block hearder call to action-->
+    <!-- <div class="notice">
+      <h3>Avoir plus d'infos et participer</h3>
+      <p> Si vous souhaitez vous impliquer, n'hésitez pas à nous rejoindre place des Vosges<br> ou à nous contacter via twitter, facebook, email !</p>
+      <div class="inline-btn">
+        <a class="btn btn-primary" href="{{ domain }}/commissions/">Contacter et participer aux commissions </a>
+        <a href="#" class="btn-social instagram"><i class="fa fa-instagram" aria-hidden="true"></i> Instagram</a>
+        <a href="#" class="btn-social linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+      </div>
+    </div> -->
+
+
+  <div class="col-8">
+
+    <section>
+      <h2 class="page-heading">Dernières actualités</h2>
+      <div class="tiles wrap">
+        {% for post in site.posts | limit: 4 %}
+          <div class="tile post-style col-2">
+            {% include post-tile.html %}
+          </div>
+        {% endfor %}
+      </div>
+      <a class="btn btn-primary pull-right" href="{{ domain }}/actus/" title="Voir toutes les actus">Voir toutes les actus</a>
+      <div class="clearfix"></div>
+    </section>
+
+  </div>
+
+
+  <div class="col-4">
+    <section class="notice">
+      <h2 class="post-title">Adhérez à 3ème rive</h2>
+      <p class="post-excerpt">Vous pouvez adhérer en ligne via HelloAsso !</p>
+      <a href="https://www.helloasso.com/associations/3eme-rive-cafe-associatif/adhesions/adhesions-2017"  target="_blank" class="btn btn-inverse">Adhérer en ligne</a>
+    </section>
+  </div>
+
+</div>
+
+
+
+<!--
+
+<div class="tiles">
+
+<div class="tile">
+  <h2 class="post-title">Assemblée Générale 3ème Rive</h2>
+  <p class="post-excerpt">La première assemblée générale de 3ème Rive se déroule samedi 16 septembre à partir de 15h30 à A l’auditorium de la BMI, 48 rue Saint Michel à Epinal.</p>
+</div>
+
+<div class="tile">
+  <h2 class="post-title">Adhérez à 3ème rive</h2>
+  <p class="post-excerpt">Vous pouvez adhérer en ligne via HelloAsso !</p>
+  <a href="https://www.helloasso.com/associations/3eme-rive-cafe-associatif/adhesions/adhesions-2017"  target="_blank" class="btn">Adhérer en ligne</a>
+</div>
+
+<div class="tile">
+  <h2 class="post-title">Faites un don à 3ème rive</h2>
+  <p class="post-excerpt">Vous pouvez aussi faire un don en ligne</p>
+  <a href="https://www.helloasso.com/associations/3eme-rive-cafe-associatif/formulaires/1" target="_blank" class="btn">Faire un don</a>
+</div> -->
+
+
+</div>
