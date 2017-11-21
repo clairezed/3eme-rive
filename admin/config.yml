@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: clairezed/3eme-rive # Path to your Github repository
   branch: master # Branch to update
 
