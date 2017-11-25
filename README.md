@@ -18,6 +18,7 @@ You should reach your website at [localhost:4000](localhost:4000)
 
 - One config file per environnement (see above, "How to Use")
 - All pages are in `_pages` folder. You may need to specify page permalink in page file frontmatter.
+- Agenda module with [openagenda](https://openagenda.com/3eme-rive)
 
 
 ## Ressources
