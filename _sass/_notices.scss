@@ -14,9 +14,12 @@
 	color: $white;
 	background-color: $notice-color;
 	border-radius: $border-radius;
-	a {
+	a, a.btn-inverse:hover {
 		color: $white;
 		border-bottom: 1px dotted $white;
+		&.btn-inverse:not(:hover) {
+			color: $text-color;
+		}
 	}
 }
 .notice {
