@@ -12,7 +12,3 @@ C'est sur [HelloAsso](https://www.helloasso.com/associations/3eme-rive-cafe-asso
 <a href="https://www.helloasso.com/associations/3eme-rive-cafe-associatif/adhesions/adhesions-2017"  target="_blank" class="btn">Adhérer en ligne</a>
 
 <a href="https://www.helloasso.com/associations/3eme-rive-cafe-associatif/formulaires/1" target="_blank" class="btn">Faire un don</a>
-
-
-
-Lien vers le [compte-rendu de la dernière AG](https://nuage.epinal-en-transition.fr/index.php/s/ptytPDfvXllTKL5)
