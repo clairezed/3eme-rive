@@ -1,0 +1,17 @@
+.calendar {
+  // background-color: #efefef;
+  margin-bottom: 10px;
+  header {
+    padding: 0.5em 1.5em 1.5em 1.5em;
+    background-color: $primary-color;
+    color: $white;
+    li.selected, li.active, a {
+      color: inherit;
+    }
+  }
+  .calendar_body {
+    border: 1px solid $primary-color ;
+    padding: 0em 1.5em 0em 1.5em;
+  }
+
+}
