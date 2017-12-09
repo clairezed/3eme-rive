@@ -21,7 +21,12 @@ collections:
       - {label: "Date de publication", name: "date", widget: "datetime"}
       - {label: "Categories (séparées par ',')", name: "categories", widget: "list", required: false}
       - {label: "Contenu", name: "body", widget: "markdown"}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Image teaser (illustration principale)", name: "image_teaser", widget: "image", required: false}
+      - {label: "Image 01", name: "image_01", widget: "image", required: false}
+      - {label: "Image 02", name: "image_02", widget: "image", required: false}
+      - {label: "Image 03", name: "image_03", widget: "image", required: false}
+      - {label: "Image Test 01", name: "image.test01", widget: "image", required: false}
+      - {label: "Image Test 02", name: "image.test02", widget: "image", required: false}
       # - {label: "Terrain", name: "territory", widget: "select", options: ["Villefranche", "Saint Denis"], default: "Villefranche"}
       # - {label: "Author", name: "author", widget: "relation", collection: "authors", searc}
       # - {label: "En page d'accueil", name: "highlighted", widget: "boolean", default: :false}

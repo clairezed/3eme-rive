@@ -20,9 +20,11 @@ Buvette & petite restauration sur place.
 
 ## Infos pratiques
 
-**Tarif** : prix libre sur la base de 5€
+**Date** : Mercredi 20 décembre, à partir de 19h
 
 **Lieu** : Studio  Micro-climat, 20bis quai de Dogneville, Epinal
+
+**Tarif** : prix libre sur la base de 5€
 
 N'hésitez pas à réserver dès maintenant !
 
