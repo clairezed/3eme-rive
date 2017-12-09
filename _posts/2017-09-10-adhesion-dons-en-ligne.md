@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adhésions et dons en ligne
-date: 2017-11-22T17:50:03.038Z
+date: 2017-09-10T17:50:03.038Z
 categories:
   - vie-de-l-asso
 ---

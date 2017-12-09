@@ -28,11 +28,11 @@ image:
       <div class="tiles wrap">
         {% for post in site.posts | limit: 4 %}
           <div class="tile post-style col-2">
-            {% include post-tile.html %}
+            {% include post-tile-media.html %}
           </div>
         {% endfor %}
       </div>
-      <a class="btn btn-primary pull-right" href="{{ domain }}/actus/" title="Voir toutes les actus">Voir toutes les actus</a>
+      <a class="btn btn-primary pull-right" href="{{ domain }}/actualites" title="Voir toutes les actus">Voir toutes les actus</a>
       <div class="clearfix"></div>
     </section>
 
