@@ -5,9 +5,6 @@ date: 2017-12-08T17:50:03.038Z
 categories:
   - evenement
 image_teaser: /images/uploads/3eme_rive_concert_soutien_s.jpg
-image_01: /images/uploads/abba01.jpg
-image.test01: /images/uploads/10dates1cat.jpg
-image.test02: /images/uploads/3eme_rive_concert_soutien.jpg
 ---
 
 
