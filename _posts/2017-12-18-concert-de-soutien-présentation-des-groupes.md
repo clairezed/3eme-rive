@@ -28,4 +28,6 @@ Et c'est au tour de notre groupe de reprises jazz de faire les présentations !
 
 Voici USKULE avec Philippe au sax, Michou à l'harmonica et au tuba, Fred à la guitare, Jérôme au clavier et Yvo à la batterie. 
 
+![/images/uploads/uksule.png](/images/uploads/uksule.png)
+
 On a hâte d'être à mercredi pour vous faire découvrir tout ça !
