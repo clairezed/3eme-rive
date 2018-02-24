@@ -15,11 +15,11 @@ Sortie ouverte à toutes et tous, adhérents et non adhérents. Vous pouvez en p
 
 A bientôt !
 
-___
+- - -
 
 **INFOS PRATIQUES **
 
-Vendredi 12 janvier à partir de 20h00 
+Vendredi 9 mars 2018, à partir de 20h00 
 
 Bowling d’Epinal \
 18 espace Saint Michel
