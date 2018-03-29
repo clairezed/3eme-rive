@@ -6,14 +6,26 @@ image_teaser: /images/uploads/helloasso_600x300_01.jpg
 ---
 Le samedi 14 avril, 3° Rive vous propose de partager un moment de convivialité.
 
-
-
 Sur le principe du café, toutes les propositions sont les bienvenues ! Vous souhaitez animer un jeu, exposer des peintures, vendre des produits faits mains, ou tout autre chose, informez-nous.
 
+Déjà au programme : 
 
-
-Déjà au programme : un atelier imprimante 3D, un atelier origami, une vente de confitures, une expo photos, de la musique,...
-
-
+* un atelier imprimante 3D, 
+* un atelier origami, 
+* une vente de confitures, 
+* une expo photos, 
+* un troc de livres,
+* de la musique,...
 
 Il reste de la place, alors à vos idées !
+
+\---
+
+## Infos pratiques 
+
+**Samedi 14 avril,** 18h à 23h\
+**Centre Léo Lagrange, **\
+6 avenue Salvador Allende, \
+88000 Epinal
+
+**Boissons et petite restauration sur place !**
