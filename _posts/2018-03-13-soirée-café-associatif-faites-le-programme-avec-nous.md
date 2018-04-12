@@ -31,9 +31,14 @@ Le samedi 14 avril, 3° Rive vous propose de partager un moment de convivialité
 
 ## Infos pratiques
 
-**Samedi 14 avril,** 18h à 23\
-**Centre Léo Lagrange,**\
-6 avenue Salvador Allende, \
+**Samedi 14 avril,** 18h à 23
+
+**Centre Léo Lagrange,**
+
+6 avenue Salvador Allende,
+
 88000 Epinal
+
+
 
 **Boissons et petite restauration sur place !**
