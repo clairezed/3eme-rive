@@ -1,12 +1,12 @@
 ---
 layout: article
-title: Soirée café associatif samedi 14 avril
+title: 'Soirée café associatif, samedi 14 avril'
 date: '2018-03-13T14:28:26+01:00'
 image_teaser: /images/uploads/helloasso_600x300_01.jpg
 ---
 Le samedi 14 avril, 3° Rive vous propose de partager un moment de convivialité, avec buvette et petite restauration sur place
 
-**Au programme : **
+**Au programme :**
 
 * Exposition photos et peintures
 * Atelier imprimante 3D
@@ -31,9 +31,15 @@ Le samedi 14 avril, 3° Rive vous propose de partager un moment de convivialité
 
 ## Infos pratiques
 
-**Samedi 14 avril,** 18h à 23h\
-**Centre Léo Lagrange, **\
-6 avenue Salvador Allende, \
+**Samedi 14 avril,** 18h à 23h
+
+\
+**Centre Léo Lagrange, **
+
+\
+6 avenue Salvador Allende, 
+
+\
 88000 Epinal
 
 **Boissons et petite restauration sur place !**
