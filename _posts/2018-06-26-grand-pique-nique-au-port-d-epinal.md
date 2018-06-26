@@ -4,7 +4,7 @@ title: Grand Pique Nique au port d'Epinal
 date: '2018-06-26T14:43:54+02:00'
 image_teaser: /images/uploads/fanions.jpg
 ---
-3ème Rive vous propose de venir partager un bon moment **ce dimanche 1er juillet **pour un **Grand Pique Nique au port d'Epinal,** à partir de 11h30 jusqu'en fin d'après midi !
+3ème Rive vous propose de venir partager un bon moment **ce dimanche 1er juillet** pour un **Grand Pique Nique au port d'Epinal**, à partir de 11h30 jusqu'en fin d'après midi !
 
 Ouvert à toutes et tous, parents, amis, collègues, voisins...
 
@@ -30,4 +30,4 @@ De 11h30 jusqu'à la fin de journée
 
 \---
 
-_Photo de _[_Chris Lawton_](https://unsplash.com/photos/vBA-JNHAraI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_ sur _[_Unsplash_](https://unsplash.com/search/photos/picnic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+_Photo de [Chris Lawton](https://unsplash.com/photos/vBA-JNHAraI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) sur [Unsplash](https://unsplash.com/search/photos/picnic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
