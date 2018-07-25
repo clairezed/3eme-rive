@@ -21,11 +21,17 @@ Pour pique-niquer, chacun apporte :
 * assiette, verre, couverts, 
 * chaise ou natte de plage.
 
-
 Sinon, il est toujours possible de nous rejoindre dans l'après midi.
 
 Venez avec vos idées et votre bonne humeur !
 
+## Découverte des mini-ânes !
+
+L'association Authentic'ânes sera présente pour vous faire découvrir, caresser et bichonner ses mini-ânes ! 
+
+Une super idée pour les petits et les grands (gratuit).
+
+Plus d'infos sur [Authentic'ânes](https://www.facebook.com/mediation.animale.anes/).
 
 ## **Infos pratiques**
 
