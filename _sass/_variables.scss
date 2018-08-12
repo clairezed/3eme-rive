@@ -20,6 +20,9 @@ $border-radius               	: 3px;
 /*
    Color variables
    ========================================================================== */
+$light-purple                 : #db2e4c;
+$medium-purple                : #af334b;
+$dark-purple                  : #7f2b38;
 
 $white                        : #fff;
 $black                        : #000;
@@ -34,7 +37,7 @@ $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $black;
+$primary-color               	: $medium-purple;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
@@ -80,10 +83,10 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	 : $black;
-$sliding-menu-background 		   : $black;
+$sliding-menu-border-color	 	 : $light-purple;
+$sliding-menu-background 		   : $light-purple;
 $sliding-menu-color 	 		     : $white;
-$sliding-menu-background-hover : $black;
+$sliding-menu-background-hover : $medium-purple;
 $sliding-menu-color-hover	 	   : $white;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	     : 30px;
