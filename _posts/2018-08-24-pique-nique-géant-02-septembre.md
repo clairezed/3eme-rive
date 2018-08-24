@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Pique nique géant 02 septembre
+title: Pique nique géant          02 septembre
 date: 2018-08-24T17:56:38.599Z
 image_teaser: /images/uploads/cafe-asso.jpg
 ---
