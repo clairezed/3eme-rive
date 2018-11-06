@@ -3,21 +3,33 @@ layout: article
 title: Que va-t-il se passer à 3ème Rive ?
 date: 2018-10-26T12:33:48.880Z
 ---
-**Au programme ce samedi **
+**Au programme ce samedi 10 novembre**
 
 à 3ème Rive, votre café associatif
 
-(4 quai des Bons Enfants – Épinal)
+(La tête à toto - 4 quai des Bons Enfants – Épinal)
 
 **Animations gratuites pour petits et grands**
 
 **Entrée libre !**
 
+**\* Animations scientifiques et ludiques Biodiversité**
 
+**(Pollini, pesticide et Alimentation durable)**
 
-De midi à 13h30
+De 14h à 19h
 
-**Repas partagé**
+Avec Les Petits Débrouillards Grand Est
+
+**\* Conseils techniques en photo**
+
+**De 17h30 à 19h**
+
+Avec l’atelier du photographe
+
+**ET**
+
+**\* Repas partagé de midi à 13h30**
 
 (apportez votre repas et mangeons ensemble,
 
@@ -25,55 +37,33 @@ une consommation vous sera demandée)
 
 **Après midi**
 
-**Jeux de société**
+**\* Jeux de société**
 
-**Coin lecture**
+**\* Coin lecture**
 
 (adultes – enfants)
 
-**Partageons nos coups de coeur**
+**\* Partageons nos coups de coeur**
 
 (cinéma, livre, musique, …)
 
-**Baby-foot, ping-pong**
+**\* Baby-foot, ping-pong**
 
-**Découverte de l’origami**
-
-(de 16h à 18h avec Cécile)
-
-**Découverte du monde de la photo**
-
-(de 17h30 à 19h avec l’atelier du photographe)
-
-**Panneau "Ils gagnent à être connus"**
+**\* Panneau "Ils gagnent à être connus"**
 
 (communication associations, manifestations, petits producteurs, ...)
 
-**Échanges, rencontres, …**
+**\* Échanges, rencontres, …**
 
-**Buvette - Crêpes**
+**\* Buvette - Crêpes**
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\**
 
-**Les prochains grands rendez-vous à retenir**
+- - -
 
-**Samedi 3 et dimanche 4 novembre de 10h30 à 19h**
+**ANIMATIONS à VENIR :**
 
-**Vide dressing**
-
-avec la tête à toto
-
-https://www.facebook.com/events/284306532411091/?event_time_id=284306552411089
-
-**Samedi 10 novembre de 14h à 19h**
-
-**Animations scientifiques et ludiques Biodiversité**
-
-**(Pollini, pesticide et Alimentation durable)**
-
-Avec Les Petits Débrouillards Grand Est
-
-**Mercredi 21 novembre de 20h à 22h**
+**\* Mercredi 21 novembre de 20h à 22h**
 
 **Conférence gesticulée**
 
@@ -83,19 +73,33 @@ Avec Les Petits Débrouillards Grand Est
 
 avec Gwennyn Tanguy
 
-**Samedi 24 novembre de 14h à 17h**
+\*\**
+
+**\* Samedi 24 novembre de 14h à 17h**
 
 **Atelier d’écriture**
 
 avec La Langue De Travers
 
-**Samedi 1er décembre de 14h à 19h**
+\*\**
+
+**\* Samedi 1er décembre de 14h à 19h**
 
 **Fausses infos et demi vérité sur le climat**
 
 **Expériences : Prouvez le**
 
 Avec Les Petits Débrouillards Grand Est
+
+\*\**
+
+**\* Samedi 8 décembre de 17h à 19h**
+
+**Conférence / débat **
+
+**La SCIC (Société Coopérative d'Intérêt Collectif)**
+
+avec Hubert Thiébaut
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\**
 
