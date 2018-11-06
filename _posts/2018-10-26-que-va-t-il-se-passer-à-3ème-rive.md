@@ -2,6 +2,7 @@
 layout: article
 title: Que va-t-il se passer à 3ème Rive ?
 date: 2018-10-26T12:33:48.880Z
+image_teaser: /images/uploads/20181103-0015.jpeg
 ---
 **Au programme ce samedi 10 novembre**
 
