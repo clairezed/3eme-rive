@@ -1,8 +1,8 @@
 ---
 layout: article
-title: Participez à 3° Rive!
+title: >-
+  Le lien pour venir passer un bon moment au café associatif les samedi, c'est
+  par ici
 date: 2018-11-08T19:40:45.432Z
 ---
-Vous avez un peu de temps les samedi à partir de 11h? Inscrivez-vous en cliquant sur le lien ci-dessous et venez passer un bon moment!
-
 <https://lite.framacalc.org/samedis-a-3eme-rive>
