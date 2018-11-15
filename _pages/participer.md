@@ -12,8 +12,6 @@ N’hésitez pas à faire marcher votre imagination
 
 et à proposer vos projets !
 
-
-
 **Vos propositions d'animations **
 
 **et/ou votre inscription pour donner un coup de mains aux horaires d'ouverture **:
@@ -26,8 +24,6 @@ Nous restons à votre disposition
 
 Contactez-nous : <mailto:contact@3eme-rive.org>
 
-
-
 ## Les listes de diffusion
 
 Pour être informé.e régulièrement des avancées du café, abonnez-vous aux listes de diffusion mail ci-dessous : 
@@ -39,4 +35,4 @@ Pour être informé.e régulièrement des avancées du café, abonnez-vous aux l
 
 * [Documentation du café associatif](https://nuage.epinal-en-transition.fr/index.php/s/irzS0lolsFee9B1)
 * [Les dernières nouvelles](https://annuel.framapad.org/p/CR_Caf%C3%A9_Associatif)
-* Nos partenaires vous informent --<https://annuel.framapad.org/p/nos-partenaires-vous-informent---20181112>
+* Nos partenaires vous informent : <https://annuel.framapad.org/p/nos-partenaires-vous-informent---20181112>
