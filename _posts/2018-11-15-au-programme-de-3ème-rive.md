@@ -2,7 +2,7 @@
 layout: article
 title: Demandez le programme !
 date: 2018-11-15T08:46:08.256Z
-image_teaser: /images/uploads/18-10-13-a-3eme-rive-mf-9-.jpeg
+image_teaser: /images/uploads/18-10-29-a-3eme-rive-mf-9-.jpeg
 ---
 Au programme de 3ème Rive, votre café associatif
 
