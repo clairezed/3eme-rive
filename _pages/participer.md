@@ -1,8 +1,16 @@
 ---
 layout: article
-title: Participer au café
+title: Participer
 ---
-Vous êtes un individu ou une structure et **vous souhaitez participer à 3ème Rive** ?
+## **Demandez le programme !**
+
+Le programme complet --> 
+
+<https://nuage.epinal-en-transition.fr/index.php/s/iALGkz89b3AqWqM>
+
+## Vous souhaitez participer à 3ème Rive
+
+Vous êtes un individu ou une structure,
 
 Toutes les idées sont bonnes (dans les limites des statuts)
 
