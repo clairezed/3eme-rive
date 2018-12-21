@@ -26,7 +26,7 @@ image:
     <section>
       <h2 class="page-heading">Dernières actualités</h2>
       <div class="tiles wrap">
-        {% for post in site.posts | limit: 4 %}
+        {% for post in site.posts limit: 4 %}
           <div class="tile post-style col-2">
             {% include post-tile-media.html %}
           </div>
