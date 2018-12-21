@@ -17,6 +17,18 @@ layout: default
       {{ content }}
     </div>
 
+    <div class="pictures">
+      {% if page.image_01 %}
+        <img src="{{ page.image_01 | prepend: site.baseurl }}" alt="teaser" itemprop="image">
+      {% endif %}
+      {% if page.image_02 %}
+      <img src="{{ page.image_02 | prepend: site.baseurl }}" alt="teaser" itemprop="image">
+      {% endif %}
+      {% if page.image_03 %}
+      <img src="{{ page.image_03 | prepend: site.baseurl }}" alt="teaser" itemprop="image">
+      {% endif %}
+    </div>
+
     <div class="post-footer">
       <p class="post-meta">
         <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished"><i class="fa fa-calendar"></i> Publié le {{ page.date | date: "%-d %m %Y" }}</time>

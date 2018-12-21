@@ -18,3 +18,10 @@
 .page-title, .page-heading {
   color: $medium-purple;
 }
+
+
+// Galerie images
+
+.pictures img:not(:last-child) {
+  margin-bottom: 2rem;
+}
