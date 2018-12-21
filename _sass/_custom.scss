@@ -25,3 +25,31 @@
 .pictures img:not(:last-child) {
   margin-bottom: 2rem;
 }
+
+
+// Tiles (pb affichage actu avec .col-3
+
+.tiles {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tile {
+  padding: 0 1.5rem;
+  border: 1px solid #ccc;
+}
+.col-3 {
+  width: 30.5%
+}
+
+.col-3.tile {
+  margin-left: 0;
+}
+
+.col-3:nth-child(3n), .col-3.tile:nth-child(4n) {
+  margin-right: 2.3576515979%;
+}
+
+.col-3:nth-child(3n+1) {
+  clear : none;
+}
