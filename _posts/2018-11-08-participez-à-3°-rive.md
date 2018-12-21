@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: >-
   Le planning d'inscription des samedis (bénévoles pour tenir la buvette,
   proposer des animations,...) c'est par ici :

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Concert Violon
 date: 2018-12-17T12:48:28.764Z
 image_teaser: /images/uploads/2018_12_22-lisa-yang.jpg

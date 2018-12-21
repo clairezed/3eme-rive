@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: 'Assemblée générale'
 date: 2017-08-20T14:30:28.219Z
 categories:

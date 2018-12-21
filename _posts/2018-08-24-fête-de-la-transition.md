@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Fête de la transition
 date: 2018-08-24T19:08:27.249Z
 categories:

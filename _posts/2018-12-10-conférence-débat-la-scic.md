@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Conférence / Débat "la SCIC"
 date: 2018-12-10T10:49:40.923Z
 image_teaser: /images/uploads/conférence-scic-1ere.jpg

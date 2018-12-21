@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Assemblé Générale AMI BIO
 date: 2018-12-10T10:47:21.908Z
 image_teaser: /images/uploads/ag-ami-bio.jpg

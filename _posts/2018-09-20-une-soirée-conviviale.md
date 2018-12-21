@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Une soirée conviviale?
 date: 2018-09-20T16:42:10.450Z
 ---

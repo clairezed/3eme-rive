@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Grand Pique Nique au port d'Epinal
 date: '2018-06-26T14:43:54+02:00'
 image_teaser: /images/uploads/fanions.jpg

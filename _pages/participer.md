@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: page
 title: Participer
 ---
 ## **Demandez le programme !**
@@ -20,11 +20,11 @@ N’hésitez pas à faire marcher votre imagination
 
 et à proposer vos projets !
 
-**Vos propositions d'animations **
+**Vos propositions d'animations**
 
-**et/ou votre inscription pour donner un coup de mains aux horaires d'ouverture **:
+**et/ou votre inscription pour donner un coup de mains aux horaires d'ouverture :**
 
-→ en ligne sur <https://lite.framacalc.org/samedis-a-3eme-rive >
+→ en ligne sur [https://lite.framacalc.org/samedis-a-3eme-rive](https://lite.framacalc.org/samedis-a-3eme-rive)
 
 → ou sur place aux horaires d’ouverture
 

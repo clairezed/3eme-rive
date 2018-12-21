@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Atelier d'écriture et bourse aux plantes
 date: 2018-11-20T09:33:30.144Z
 image_teaser: /images/uploads/affiche-24-nov.jpg

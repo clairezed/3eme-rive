@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: 'Soirée Bowling, le 12 janvier'
 date: 2018-01-07T17:47:25.645Z
 image_teaser: /images/uploads/40693545image-bowling-jpg.jpg

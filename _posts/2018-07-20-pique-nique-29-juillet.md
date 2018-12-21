@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: 'Pique nique, 29 juillet'
 date: '2018-07-20T11:11:03+02:00'
 image_teaser: /images/uploads/20180701_piquenique.jpg

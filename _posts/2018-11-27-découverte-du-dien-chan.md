@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Découverte du Dien Chan
 date: 2018-11-27T08:57:21.701Z
 image_teaser: /images/uploads/affiche-dien-chan.jpg

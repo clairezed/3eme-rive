@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Les samedis avec 3ème Rive
 date: 2018-10-19T13:46:55.676Z
 image_teaser: /images/uploads/affiche-0.png

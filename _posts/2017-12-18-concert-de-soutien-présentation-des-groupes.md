@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: 'Concert de soutien : présentation des groupes'
 date: 2017-12-18T07:33:50.176Z
 categories:

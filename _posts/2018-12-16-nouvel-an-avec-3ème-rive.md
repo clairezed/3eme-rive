@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Nouvel an avec 3ème Rive
 date: 2018-12-16T14:44:40.782Z
 image_teaser: /images/uploads/affiche-nouvel-an.jpg

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Ouverture les samedi !
 date: 2018-10-10T17:21:03.302Z
 image_teaser: /images/uploads/moins-de-soi-pour-etre-ensemble_imagepanoramique647_286.jpg

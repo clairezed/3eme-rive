@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: 'Soirée café associatif, samedi 14 avril'
 date: '2018-03-13T14:28:26+01:00'
 image_teaser: /images/uploads/helloasso_600x300_01.jpg

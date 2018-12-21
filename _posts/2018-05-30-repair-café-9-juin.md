@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Repair café - 9 juin
 date: '2018-05-30T10:42:56+02:00'
 image_teaser: /images/uploads/affiche-repair-café-9juin-sm.jpg

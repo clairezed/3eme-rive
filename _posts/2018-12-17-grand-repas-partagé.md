@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Grand repas partagé
 date: 2018-12-17T12:43:56.737Z
 image_teaser: /images/uploads/2018_12_22-repas-partagé.jpg

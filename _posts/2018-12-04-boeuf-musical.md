@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Boeuf musical
 date: 2018-12-04T09:34:11.482Z
 image_teaser: /images/uploads/boeuf-musical.jpg

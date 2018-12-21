@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Saint Nicolas
 date: 2018-12-04T09:28:02.795Z
 image_teaser: /images/uploads/affiche-st-nicolas.jpg

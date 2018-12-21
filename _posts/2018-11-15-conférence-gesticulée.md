@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Conférence gesticulée
 date: 2018-11-15T09:00:12.755Z
 image_teaser: /images/uploads/conférence-gesticulée.jpg

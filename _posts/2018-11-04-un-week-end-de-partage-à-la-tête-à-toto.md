@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Un week-end de partage à la Tête à Toto
 date: 2018-11-04T19:02:14.208Z
 image_teaser: /images/uploads/45390882_2408624745819967_8701453353416130560_n.jpg
