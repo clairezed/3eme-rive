@@ -2,6 +2,7 @@
 layout: post
 title: Assemblée Générale de 3ème Rive
 date: 2019-01-13T13:51:51.522Z
+image_teaser: /images/uploads/170609_actu88.png
 ---
 **Samedi 19 janvier à partir de 16 heures**
 
