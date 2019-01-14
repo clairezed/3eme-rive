@@ -22,11 +22,15 @@ et à proposer vos projets !
 
 **Vos propositions d'animations**
 
-**et/ou votre inscription pour donner un coup de mains aux horaires d'ouverture :**
+→ en ligne sur <https://lite.framacalc.org/samedis-a-3eme-rive>
 
-→ en ligne sur [https://lite.framacalc.org/samedis-a-3eme-rive](https://lite.framacalc.org/samedis-a-3eme-rive)
+**et/ou votre inscription pour donner un coup de mains **
 
-→ ou sur place aux horaires d’ouverture
+\--> en ligne sur <https://framadate.org/rgpOI22mYjF3EcLo>
+
+****
+
+→ ou, sur place aux horaires d’ouverture
 
 Nous restons à votre disposition
 
