@@ -28,7 +28,7 @@ et à proposer vos projets !
 
 \--> en ligne sur <https://framadate.org/rgpOI22mYjF3EcLo>
 
-****
+
 
 → ou, sur place aux horaires d’ouverture
 
