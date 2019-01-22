@@ -46,3 +46,23 @@ Pour être informé.e régulièrement des avancées du café, abonnez-vous aux l
 * [Documentation du café associatif](https://nuage.epinal-en-transition.fr/index.php/s/irzS0lolsFee9B1)
 * [Les dernières nouvelles](https://annuel.framapad.org/p/CR_Caf%C3%A9_Associatif)
 * Nos partenaires vous informent : <https://annuel.framapad.org/p/nos-partenaires-vous-informent---20181112>
+
+
+
+## **Adhérer**
+
+**Adhésion papier **
+
+* **Citoyen-ne**
+
+\--> <https://nuage.epinal-en-transition.fr/index.php/s/DoG3MG1PuVhm6A8>
+
+* **Association, structure**
+
+\--> <https://nuage.epinal-en-transition.fr/index.php/s/1AhM8LErnKJp35y>
+
+
+
+**Adhésion en ligne**
+
+\--><https://www.helloasso.com/associations/3eme-rive-cafe-associatif/adhesions/adhesion-2019>
