@@ -11,3 +11,11 @@ Quelque soit votre niveau
 pour pratiquer, rencontrer, débattre,
 
 autour d'un thème, d'un sujet, d'une idée, de votre choix
+
+\--> un beau succès !
+
+Une quinzaine de personnes se sont retrouvées dans la bonne humeur
+
+La preuve en images :
+
+<https://nuage.epinal-en-transition.fr/index.php/s/Xp0BZTZmHAXMYKB>
