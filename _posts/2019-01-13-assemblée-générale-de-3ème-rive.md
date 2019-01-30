@@ -6,6 +6,12 @@ image_teaser: /images/uploads/170609_actu88.png
 ---
 **Samedi 19 janvier à partir de 16 heures**
 
+**En images : **[**https://nuage.epinal-en-transition.fr/index.php/s/5lKTuhnMFMKe8oj**](https://nuage.epinal-en-transition.fr/index.php/s/5lKTuhnMFMKe8oj)****
+
+**Compte rendu : **
+
+**\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***
+
 Ordre du jour
 
 **16h : Accueil**
@@ -32,8 +38,6 @@ Temps de questions-réponses
 
 Verre de l’amitié 
 
-
-
 (*) Adhérents à jour de cotisation. 
 
 (\*\*) Un bout d’aventure avec 3ème Rive, ça vous dit ?
@@ -50,8 +54,6 @@ N'hésitez pas à prendre contact avec nous dès maintenant.
 
 (limite des candidatures, samedi 19 janvier à midi)
 
-
-
 Contact
 
 cafe.asso.mf@free.fr et contact@3eme-rive.org 
@@ -63,8 +65,6 @@ https://www.3eme-rive.org/
 https://www.facebook.com/cafeasso
 
 ainsi que les samedis au 4 quai des bons enfants
-
-
 
 Nous restons à votre disposition
 
