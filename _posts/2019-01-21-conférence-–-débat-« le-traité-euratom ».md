@@ -6,6 +6,12 @@ image_teaser: /images/uploads/criirad-euratom.jpg
 ---
 **Samedi 26 janvier à 19h30**
 
+**En images : **[**https://nuage.epinal-en-transition.fr/index.php/s/oZY9SAix2qG32gQ**](https://nuage.epinal-en-transition.fr/index.php/s/oZY9SAix2qG32gQ)****
+
+****
+
+**\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***
+
 **Avec Roland Desbordes de la CRIIRAD**
 
 (Commission de Recherche et d’Information Indépendantes sur la Radioactivité).
