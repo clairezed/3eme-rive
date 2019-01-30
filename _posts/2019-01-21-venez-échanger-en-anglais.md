@@ -6,12 +6,6 @@ image_teaser: /images/uploads/2019_01_26-converser-en-anglais.jpg
 ---
 **Samedi 26 janvier de 17h à 18h**
 
-Quelque soit votre niveau
-
-pour pratiquer, rencontrer, débattre,
-
-autour d'un thème, d'un sujet, d'une idée, de votre choix
-
 \--> un beau succès !
 
 Une quinzaine de personnes se sont retrouvées dans la bonne humeur
@@ -19,3 +13,13 @@ Une quinzaine de personnes se sont retrouvées dans la bonne humeur
 La preuve en images :
 
 <https://nuage.epinal-en-transition.fr/index.php/s/Xp0BZTZmHAXMYKB>
+
+\--> on remet ça dans 2 semaines !
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+Quelque soit votre niveau
+
+pour pratiquer, rencontrer, débattre,
+
+autour d'un thème, d'un sujet, d'une idée, de votre choix
