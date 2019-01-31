@@ -12,7 +12,7 @@ La preuve en images :
 
 <https://nuage.epinal-en-transition.fr/index.php/s/Xp0BZTZmHAXMYKB>
 
-\--> on remet ça dans 2 semaines !
+\--> on remet ça samedi prochain !
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
