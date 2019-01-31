@@ -4,13 +4,15 @@ title: Assemblée Générale de 3ème Rive
 date: 2019-01-13T13:51:51.522Z
 image_teaser: /images/uploads/170609_actu88.png
 ---
-**Samedi 19 janvier à partir de 16 heures**
+**Merci à toutes et tous pour votre soutien !**
 
-**En images : **[**https://nuage.epinal-en-transition.fr/index.php/s/5lKTuhnMFMKe8oj**](https://nuage.epinal-en-transition.fr/index.php/s/5lKTuhnMFMKe8oj)****
+**En images : **[**https://nuage.epinal-en-transition.fr/index.php/s/5lKTuhnMFMKe8oj**](https://nuage.epinal-en-transition.fr/index.php/s/5lKTuhnMFMKe8oj)\*\*\*\*
 
 **Compte rendu : **
 
 **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***
+
+**Samedi 19 janvier à partir de 16 heures**
 
 Ordre du jour
 
