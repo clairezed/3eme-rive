@@ -46,7 +46,7 @@ proposées PAR VOUS et POUR VOUS feront la richesse de ce lieu.
 
 Faites le programme qui vous tient à cœur !
 
-Vous pouvez proposer vos idées
+**Vous pouvez proposer vos idées et/ou un coup de main**
 
 \- par mail à [contact@3eme-rive.org](contact@3eme-rive.org)
 
