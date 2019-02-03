@@ -20,15 +20,11 @@ N’hésitez pas à faire marcher votre imagination
 
 et à proposer vos projets !
 
-**Vos propositions d'animations**
+**Vos propositions d'animations et/ou votre coup de main**
 
-→ en ligne sur <https://lite.framacalc.org/samedis-a-3eme-rive>
+→ sur [contact@3eme-rive.org](contact@3eme-rive.org)
 
-**et/ou votre inscription pour donner un coup de mains (aux horaires d'ouverture)**
-
-\--> en ligne sur <https://framadate.org/rgpOI22mYjF3EcLo>
-
-→ et toujours, sur place aux horaires d’ouverture
+→ et sur place aux horaires d’ouverture (les samedis de midi à 19h)
 
 Nous restons à votre disposition
 
@@ -47,8 +43,6 @@ Pour être informé.e régulièrement des avancées du café, abonnez-vous aux l
 * [Les dernières nouvelles](https://annuel.framapad.org/p/CR_Caf%C3%A9_Associatif)
 * Nos partenaires vous informent : <https://annuel.framapad.org/p/nos-partenaires-vous-informent---20181112>
 
-
-
 ## **Adhérer**
 
 **Adhésion papier **
@@ -60,8 +54,6 @@ Pour être informé.e régulièrement des avancées du café, abonnez-vous aux l
 * **Association, structure**
 
 \--> <https://nuage.epinal-en-transition.fr/index.php/s/1AhM8LErnKJp35y>
-
-
 
 **Adhésion en ligne**
 
