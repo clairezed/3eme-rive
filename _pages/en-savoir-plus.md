@@ -10,8 +10,6 @@ title: A propos de 3ème rive
 
 **! Entrée libre ! **
 
-
-
 **Animations**
 
 ** Imaginées par VOUS,**
@@ -22,23 +20,15 @@ Conférences, débats, ateliers divers, jeux de société, baby-foot, ping-pong,
 
 **! Inventez le programme qui vous convient !**
 
-
-
 **Un lieu, tout nouveau est né en cœur de ville d’Épinal **
 
 **créé pour chacun-e de vous et animé par chacun-e de vous.**
 
-
-
 Nous attendions toutes et tous du concret, c’est parti !
-
-
 
 **Venez vous renseigner, proposer votre aide, une idée, une animation,**
 
 **ou venez simplement découvrir ce nouveau lieu qui vous est dédié.**
-
-
 
 3ème Rive est un café associatif géré et animé par des bénévoles.
 
@@ -46,41 +36,25 @@ L’équipe du projet a imaginé un cadre.
 
 **Aujourd’hui, c’est à vous de l’utiliser, de l’animer, de le faire vivre.**
 
-
-
 Des bénévoles sont nécessaires pour tenir la buvette
 
 (une source de revenus afin de payer les charges).
-
-
 
 Des animations, essence même de 3ème Rive, 
 
 proposées PAR VOUS et POUR VOUS feront la richesse de ce lieu.
 
-
-
 Faites le programme qui vous tient à cœur !
 
+Vous pouvez proposer vos idées
 
-
-Vous pouvez vous inscrire
-
-\- sur ce tableur collaboratif
-
-\    https://lite.framacalc.org/samedis-a-3eme-rive
-
-
+\- par mail à [contact@3eme-rive.org](contact@3eme-rive.org)
 
 \- ou directement en venant les samedis entre midi et 19h au 4 quai des Bons Enfants
-
-
 
 L’espace est suffisamment grand pour accueillir plusieurs animations 
 
 en même temps (selon le type d’animation).
-
-
 
 ## A l'origine
 
