@@ -2,17 +2,21 @@
 layout: article
 title: A propos de 3ème rive
 ---
+**Suite à la vente des locaux quai des bons enfants,**
+
 **Votre café associatif 3ème Rive**
 
-**ouvre ses portes tous les samedis de midi à 19 h**
+assurera les animations prévues en mars
 
-4 quai des bons enfants - Épinal - (Dans les locaux de la tête à toto)
+à la salle de la baudenotte (derrière la piscine olympique)
 
-**! Entrée libre ! **
+en attendant ses nouveaux locaux prévus en avril.
+
+**! Entrée libre !** 
 
 **Animations**
 
-** Imaginées par VOUS,**
+ **Imaginées par VOUS,**
 
 **Habitant-e-s, Associations, Commerçant-e-s, Artistes, Etc …**
 
@@ -20,7 +24,7 @@ Conférences, débats, ateliers divers, jeux de société, baby-foot, ping-pong,
 
 **! Inventez le programme qui vous convient !**
 
-**Un lieu, tout nouveau est né en cœur de ville d’Épinal **
+**Un lieu, tout nouveau est né en cœur de ville d’Épinal** 
 
 **créé pour chacun-e de vous et animé par chacun-e de vous.**
 
@@ -50,11 +54,7 @@ Faites le programme qui vous tient à cœur !
 
 \- par mail à [contact@3eme-rive.org](contact@3eme-rive.org)
 
-\- ou directement en venant les samedis entre midi et 19h au 4 quai des Bons Enfants
 
-L’espace est suffisamment grand pour accueillir plusieurs animations 
-
-en même temps (selon le type d’animation).
 
 ## A l'origine
 
