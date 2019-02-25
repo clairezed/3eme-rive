@@ -22,13 +22,11 @@ et à proposer vos projets !
 
 **Vos propositions d'animations et/ou votre coup de main**
 
-→ sur [contact@3eme-rive.org](contact@3eme-rive.org)
-
-
+Contactez-nous : [contact@3eme-rive.org](contact@3eme-rive.org)
 
 Nous restons à votre disposition
 
-Contactez-nous : <mailto:contact@3eme-rive.org>
+
 
 ## Les listes de diffusion
 
