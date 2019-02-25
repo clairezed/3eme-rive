@@ -24,7 +24,7 @@ et à proposer vos projets !
 
 → sur [contact@3eme-rive.org](contact@3eme-rive.org)
 
-→ et sur place aux horaires d’ouverture (les samedis de midi à 19h)
+
 
 Nous restons à votre disposition
 
