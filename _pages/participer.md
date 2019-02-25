@@ -6,7 +6,7 @@ title: Participer
 
 Le programme complet --> 
 
-<https://nuage.epinal-en-transition.fr/index.php/s/iALGkz89b3AqWqM>
+<https://nuage.epinal-en-transition.fr/index.php/s/qaWBHpQRWPY9wTE>
 
 ## Vous souhaitez participer à 3ème Rive
 
@@ -45,7 +45,7 @@ Pour être informé.e régulièrement des avancées du café, abonnez-vous aux l
 
 ## **Adhérer**
 
-**Adhésion papier **
+**Adhésion papier** 
 
 * **Citoyen-ne**
 
