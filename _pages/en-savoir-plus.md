@@ -2,15 +2,17 @@
 layout: article
 title: A propos de 3ème rive
 ---
-**Suite à la vente des locaux quai des bons enfants,**
+Suite à la vente des locaux quai des bons enfants,
 
 **Votre café associatif 3ème Rive**
 
-assurera les animations prévues en mars
+**assurera les animations prévues en mars**
 
-à la salle de la baudenotte (derrière la piscine olympique)
+**à la salle de la Baudenotte (derrière la piscine olympique)**
 
-en attendant ses nouveaux locaux prévus en avril.
+**en attendant ses nouveaux locaux prévus en avril.**
+
+Plan d'accès --> ****[**https://nuage.epinal-en-transition.fr/index.php/s/ImEstA2e9ut9h3Y**](https://nuage.epinal-en-transition.fr/index.php/s/ImEstA2e9ut9h3Y)****
 
 **! Entrée libre !** 
 
@@ -53,8 +55,6 @@ Faites le programme qui vous tient à cœur !
 **Vous pouvez proposer vos idées et/ou un coup de main**
 
 \- par mail à [contact@3eme-rive.org](contact@3eme-rive.org)
-
-
 
 ## A l'origine
 
