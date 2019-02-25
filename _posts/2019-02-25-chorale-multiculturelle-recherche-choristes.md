@@ -12,10 +12,8 @@ Chorale multiculturelle en éclosion cherche chanteuses et chanteurs
 
 Chanter dehors, chanter tous les pays, chanter juste et rire ensemble
 
-
-
 Avec le CCFD et Diversité88
 
-
-
 Plus d'infos au 06 42 14 06 71 / 06 27 28 14 76
+
+**A la salle de la Baudenotte (derrière la piscine olympique)**
