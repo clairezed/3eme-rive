@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Retour d'un voyage en Palestine
-date: 2019-04-26T16:39:03.542Z
+date: 2019-05-05T16:39:03.542Z
 categories:
   - Conférence et échanges
 image_teaser: /images/uploads/img_1791.jpg
