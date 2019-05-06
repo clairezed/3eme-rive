@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chorale multiculturelle samedi 11 mai
-date: 2019-03-25T12:56:45.121Z
+date: 2019-05-06T11:56:45.121Z
 categories:
   - Animation
 image_teaser: /images/uploads/chorale-clipart-7.jpg
