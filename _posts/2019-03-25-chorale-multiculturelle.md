@@ -8,6 +8,8 @@ image_teaser: /images/uploads/chorale-clipart-7.jpg
 ---
 **Samedi 11 mai de 14h à 16h**
 
+**_Salle de la Baudenotte à Epinal (derrière la piscine olympique)_**
+
 (Ouvert à toutes et tous, même débutant-e-s)
 
 Chanter dehors, chanter tous les pays, chanter juste et rire ensemble.
