@@ -8,7 +8,7 @@ image_teaser: /images/uploads/capture-du-2019-05-12-07-30-40.png
 ---
 Salle de La Baudenotte, derrière la piscine olympique d'Epinal.
 
-Rencontres avec Valen Sy Kabarari et Elise Delage, auteur et co-auteur du livre Vivant.
+Rencontres avec Valens Sy Kabarari et Elise Delage, auteur et co-auteur du livre Vivant.
 
 Témoignage poignant sur le génocide perpétré contre les Tutsi du Rwanda
 
