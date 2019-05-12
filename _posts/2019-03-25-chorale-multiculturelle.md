@@ -6,9 +6,9 @@ categories:
   - Animation
 image_teaser: /images/uploads/chorale-clipart-7.jpg
 ---
-**Samedi 11 mai de 13h30 à 15h**
+**Samedi 25 mai de 13h30 à 15h**
 
-_**Salle de la Baudenotte à Epinal (derrière la piscine olympique)**_
+**_Salle de la Baudenotte à Epinal (derrière la piscine olympique)_**
 
 (Ouvert à toutes et tous, même débutant-e-s)
 
