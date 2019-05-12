@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Chorale multiculturelle samedi 11 mai
+title: Chorale multiculturelle samedi 25 mai
 date: 2019-05-06T09:56:45.121Z
 categories:
   - Animation
 image_teaser: /images/uploads/chorale-clipart-7.jpg
 ---
-**Samedi 11 mai de 14h à 16h**
+**Samedi 11 mai de 13h30 à 15h**
 
-**_Salle de la Baudenotte à Epinal (derrière la piscine olympique)_**
+_**Salle de la Baudenotte à Epinal (derrière la piscine olympique)**_
 
 (Ouvert à toutes et tous, même débutant-e-s)
 
