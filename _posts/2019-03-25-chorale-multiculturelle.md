@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chorale multiculturelle samedi 25 mai
+title: Chorale multiculturelle samedi 8 juin
 date: 2019-06-02T09:56:45.121Z
 categories:
   - Animation
