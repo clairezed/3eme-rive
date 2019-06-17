@@ -8,9 +8,9 @@ image_teaser: /images/uploads/chorale-clipart-7.jpg
 image_01: /images/uploads/plan.png
 image_02: /images/uploads/plan-2.png
 ---
-**Samedi 8 juin de 14h à 16h**
+**Samedi 22 juin de 14h à 16h**
 
-**_Salle du quartier des ISAI (8 Rue Pierre Simonet, Epinal)_**
+_**Salle du quartier des ISAI (8 Rue Pierre Simonet, Epinal)**_
 
 (Ouvert à toutes et tous, même débutant-e-s)
 
