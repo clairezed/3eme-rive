@@ -1,14 +1,16 @@
 ---
 layout: post
-title: Chorale multiculturelle samedi 8 juin
+title: Chorale multiculturelle samedi 22 juin
 date: 2019-06-02T09:56:45.121Z
 categories:
   - Animation
 image_teaser: /images/uploads/chorale-clipart-7.jpg
+image_01: /images/uploads/plan.png
+image_02: /images/uploads/plan-2.png
 ---
-**Samedi 8 juin de 14h00 à 16h**
+**Samedi 8 juin de 14h à 16h**
 
-_**Salle de la Baudenotte à Epinal (derrière la piscine olympique)**_
+**_Salle du quartier des ISAI (8 Rue Pierre Simonet, Epinal)_**
 
 (Ouvert à toutes et tous, même débutant-e-s)
 
