@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chorale multiculturelle samedi 22 juin
-date: 2019-06-02T09:56:45.121Z
+date: 2019-06-17T09:56:45.121Z
 categories:
   - Animation
 image_teaser: /images/uploads/chorale-clipart-7.jpg
