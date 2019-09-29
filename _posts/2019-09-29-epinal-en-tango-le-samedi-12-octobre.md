@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Epinal en tango le samedi 12 octobre
+title: Epinal en tango
 date: 2019-09-29T07:12:41.114Z
 image_teaser: /images/uploads/capture-du-2019-09-29-09-16-30.png
 ---
