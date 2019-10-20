@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rencontre autour de la mobilité le 29 octobre au Moulin des Lettres
+title: Rencontre autour de la mobilité
 date: 2019-10-20T09:57:07.012Z
 image_teaser: /images/uploads/capture.png
 ---
