@@ -2,8 +2,16 @@
 layout: post
 title: Rencontre autour de la mobilité
 date: 2019-10-20T09:57:07.012Z
-image_teaser: /images/uploads/capture.png
+image_teaser: /images/uploads/imag27391.jpg
+image_01: /images/uploads/imag27361.jpg
+image_02: /images/uploads/capture.png
 ---
+**Des échanges constructifs ont permis aux participants de s'informer sur le thème de la mobilité. Le buffet proposé par 3° Rive a permis de ponctuer ce moment en toute convivialité.**
+
+**Un grand merci aux intervenants de la MACIF et de Wimoov ainsi qu'au Moulin des Lettres.**
+
+****
+
 **La mobilité partout et pour tous**
 
 Se déplacer au quotidien, c’est souvent compliqué :
