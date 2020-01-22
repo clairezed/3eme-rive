@@ -4,9 +4,7 @@ title: Participer
 ---
 ## **Demandez le programme !**
 
-Le programme complet --> 
 
-<https://nuage.epinal-en-transition.fr/index.php/s/qaWBHpQRWPY9wTE>
 
 ## Vous souhaitez participer à 3ème Rive
 
@@ -26,8 +24,6 @@ Contactez-nous : [contact@3eme-rive.org](contact@3eme-rive.org)
 
 Nous restons à votre disposition
 
-
-
 ## Les listes de diffusion
 
 Pour être informé.e régulièrement des avancées du café, abonnez-vous aux listes de diffusion mail ci-dessous : 
@@ -35,24 +31,19 @@ Pour être informé.e régulièrement des avancées du café, abonnez-vous aux l
 * [Liste de diffusion pour les citoyens](https://framalistes.org/sympa/subscribe/3eme-rive-sympa-citoyens)
 * [Liste de diffusion pour les partenaires (associations et autres structures)](https://framalistes.org/sympa/subscribe/3eme-rive-sympa-partenaires)
 
+
+
 ## Documents utiles
 
 * [Documentation du café associatif](https://nuage.epinal-en-transition.fr/index.php/s/irzS0lolsFee9B1)
-* [Les dernières nouvelles](https://annuel.framapad.org/p/CR_Caf%C3%A9_Associatif)
-* Nos partenaires vous informent : <https://annuel.framapad.org/p/nos-partenaires-vous-informent---20181112>
+* [Nos partenaires vous informent](https://annuel.framapad.org/p/nos-partenaires-vous-informent---20181112) 
+
+  [](https://annuel.framapad.org/p/nos-partenaires-vous-informent---20181112)
 
 ## **Adhérer**
 
-**Adhésion papier** 
+* **[](https://nuage.epinal-en-transition.fr/index.php/s/DoG3MG1PuVhm6A8)[Bulletin d'adhésion Citoyen.ne](https://nuage.epinal-en-transition.fr/index.php/s/DoG3MG1PuVhm6A8)[](https://nuage.epinal-en-transition.fr/index.php/s/1AhM8LErnKJp35y)**
+* **[Bulletin d'adhésion Association-Structure](https://nuage.epinal-en-transition.fr/index.php/s/1AhM8LErnKJp35y)**
 
-* **Citoyen-ne**
 
-\--> <https://nuage.epinal-en-transition.fr/index.php/s/DoG3MG1PuVhm6A8>
-
-* **Association, structure**
-
-\--> <https://nuage.epinal-en-transition.fr/index.php/s/1AhM8LErnKJp35y>
-
-**Adhésion en ligne**
-
-\--><https://www.helloasso.com/associations/3eme-rive-cafe-associatif/adhesions/adhesion-2019>
+* **[Adhésion en ligne](https://www.helloasso.com/associations/3eme-rive-cafe-associatif/adhesions/adhesions-2020)**
