@@ -60,5 +60,4 @@ collections:
         fields:
           - {label: Email contact, name: contact_email, widget: string}
           - {label: "Titre pour référencement", name: seo_title, widget: string }
-          - {label: "Description pour référencement", name: seo_description, widget: string}
           - {label: Lien adhésion, name: subscription_link, widget: string}
