@@ -12,3 +12,7 @@ C'est sur [](https://www.helloasso.com/associations/3eme-rive-cafe-associatif) [
 Merci pour votre soutient !
 
 A bientôt
+
+Vignette : <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/3eme-rive-cafe-associatif/adhesions/adhesions-2020/widget-vignette" style="width:350px;height:450px;border:none;"></iframe><div style="width:100%;text-align:center;">Propulsé par <a href="https://www.helloasso.com" rel="nofollow">HelloAsso</a></div>
+
+Bouton :<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/3eme-rive-cafe-associatif/adhesions/adhesions-2020/widget-bouton" style="width:100%;height:70px;border:none;"></iframe><div style="width:100%;text-align:center;">Propulsé par <a href="https://www.helloasso.com" rel="nofollow">HelloAsso</a></div>
