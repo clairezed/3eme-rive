@@ -51,3 +51,11 @@ collections:
   #     - {label: "Nom", name: "title", widget: "string"}
   #     - {label: "Image", name: "image", widget: "image", required: false}
   #     - {label: "Description", name: "description", widget: "text"}
+  - label: "Paramètres"
+    name: "settings"
+    file: "_data/settings.yml"
+    fields:
+      - {label: Email contact, name: contact_email, widget: string}
+      - {label: "Titre pour référencement", name: seo_title, widget: string }
+      - {label: "Description pour référencement", name: seo_description, widget: string}
+      - {label: Lien adhésion, name: subscription_link, widget: string}
