@@ -4,7 +4,7 @@ title: Rencontre avec les bénévoles samedi 8 février 2020
 date: 2020-01-23T18:32:19.080Z
 image_teaser: /images/uploads/th.jpeg
 ---
-La date tant attendue arrive!! Oui, d’ici un petit mois, notre café associatif va intégrer ses nouveaux locaux, **15 rue du maréchal Lyautey, à Epinal**.
+La date tant attendue arrive!! Oui, d’ici un petit mois, notre café associatif va intégrer ses nouveaux locaux, **15 rue du Maréchal Lyautey, à Epinal**.
 
 En attendant, nous sommes à la recherche de forces vives bénévoles pour compléter notre petite équipe.
 
