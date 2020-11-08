@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Que se passe-t-il "Ailleurs" ?
-date: 2020-10-14T07:28:25.126Z
-image_teaser: /images/uploads/20200709-piano.jpeg
+title: Que se passe-t-il "Ailleurs" ? mais en visio
+date: 2020-11-08T10:33:23.263Z
+image_teaser: /images/uploads/1920_1080_1_gardons-le-contact1.jpg
 ---
 **Demandez le programme !**
 
