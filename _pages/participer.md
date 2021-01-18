@@ -31,8 +31,10 @@ Pour être informé.e régulièrement des avancées du café, abonnez-vous aux l
 
 * [Documentation du café associatif](https://nuage.epinal-en-transition.fr/index.php/s/irzS0lolsFee9B1)[](https://annuel.framapad.org/p/nos-partenaires-vous-informent---20181112)
 
-## **Adhérer**
+## **Adhérer ou payer sa cotisation en ligne**
 
 * [](https://nuage.epinal-en-transition.fr/index.php/s/DoG3MG1PuVhm6A8)**[Bulletin d'adhésion Citoyen.ne](https://nuage.epinal-en-transition.fr/index.php/s/DoG3MG1PuVhm6A8)**[](https://nuage.epinal-en-transition.fr/index.php/s/1AhM8LErnKJp35y)
 * **[Bulletin d'adhésion Association-Structure](https://nuage.epinal-en-transition.fr/index.php/s/1AhM8LErnKJp35y)**
-* **[Adhésion en ligne](https://www.helloasso.com/associations/3eme-rive-cafe-associatif/adhesions/adhesions-2020)**
+* **[](https://www.helloasso.com/associations/3eme-rive-cafe-associatif/adhesions/adhesions-cotisations-2021)[Adhérer ou renouveler sa cotisation en ligne](https://www.helloasso.com/associations/3eme-rive-cafe-associatif/adhesions/adhesions-cotisations-2021)**
+
+  [](https://www.helloasso.com/associations/3eme-rive-cafe-associatif/adhesions/adhesions-cotisations-2021)
