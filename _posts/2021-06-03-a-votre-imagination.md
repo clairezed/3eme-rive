@@ -5,7 +5,7 @@ date: 2021-06-03T17:22:31.535Z
 image_teaser: /images/uploads/capture-d’écran-2021-06-03-193813.png
 ---
 3ème Rive et Ailleurs ont besoin de plus de **visibilité** dans la rue.\
-Nous avons fait appel à un **artiste local,** Fabian Delacote, que nous remercions chaleureusement, pour réaliser les enseignes des locaux.
+Nous avons fait appel à un **artiste local, Fabian Delacote,** que nous remercions chaleureusement, pour réaliser les enseignes des locaux.
 
 \- Une **enseigne haute** tout le long du local d'environ 624 / 44 cm
 
