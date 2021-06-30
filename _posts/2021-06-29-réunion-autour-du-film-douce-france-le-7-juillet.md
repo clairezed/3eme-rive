@@ -10,7 +10,7 @@ En lien avec la boîte à film, le Collectif Réseau d'êtres envisage pour l'au
 \
 Cette projection débat commune pourrait mobiliser les réseaux locaux de transition (AMAP, Jardins de Cocagne, VNE, PNRBV) et les citoyens ( Là Haut sur la colline, 3ème rive, Conseil des Jeunes, Centre sociaux, MJC, ATTAC, Collectif Réseau d'êtres, médiateurs politique de la ville).\
 \
-Afin d'organiser cette projection-débat, une réunion aura lieu **le MERCREDI 7 JUILLET DE 16H À 18H** à votre **café associatif Ailleurs** (rappel : 15 rue Maréchal Lyautey à Epinal.)\
+Afin d'organiser cette projection-débat, une réunion aura lieu **le MERCREDI 7 JUILLET DE 16H À 18H** au local **Ailleurs** (rappel : 15 rue Maréchal Lyautey à Epinal.)\
  \
 Cette réunion a pour but d'imaginer et de préparer ensemble ce projet. \
 Ainsi, toutes les personnes susceptibles d'être intéressées (notamment les jeunes, étant les principaux acteurs du films) sont cordialement invités à participer à cette réunion. \
