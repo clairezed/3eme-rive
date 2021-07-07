@@ -4,47 +4,25 @@ title: A propos de 3ème rive
 ---
 **Votre café associatif 3ème Rive**
 
-**vous accueille dans ses nouveaux locaux,** **au 15 rue Mrl Lyautey à Epinal**
+**vous accueille au local Ailleurs,** **15 rue Maréchal Lyautey à Epinal**
 
 **! Entrée libre !** 
 
-**\--> Les lundis de 11h45 à 18h30**
-
-**\--> Les Samedis de 12h30 à 18h30**
-
-**\--> Les 1ers et 3èmes vendredis du mois de 18h à 22h**
-
-**\--> Les 1ers et 3èmes dimanches du mois de 10h à 14h**
-
-
+**\--> Les Samedis de 11h30 à 19h00**
 
 **Repas partagés le midi**
 
-**(Vous n'avez pas envie de manger seul-e, apportez votre plat, en mangeons ensemble)**
+**Une buvette est à votre disposition : notre principale source de revenu ...**
 
-**\--> Une buvette est à votre disposition : notre principale source de revenu ...**
-
-
-
-**Animations**
-
- **Imaginées par VOUS,**
-
-**Habitant-e-s, Associations, Commerçant-e-s, Artistes, Etc …**
+**Animations, imaginées par VOUS, Habitant-e-s, Associations, Commerçant-e-s, Artistes, Etc …**
 
 Conférences, débats, ateliers divers, jeux divers et variés, jeux d'arcade, rencontres, musique, piano, danser, partager, tisser des liens entre associations, entre citoyen-ne-s, réparer, apprendre, échanger, chanter, tricoter, proposer, boîte à livres, participer, …
 
 **! Inventez le programme qui vous convient !**
 
-**Un lieu, tout nouveau est né en cœur de ville d’Épinal** 
-
-**créé pour chacun-e de vous et animé par chacun-e de vous.**
-
-Nous attendions toutes et tous du concret, c’est parti !
-
 **Venez vous renseigner, proposer votre aide, une idée, une animation,**
 
-**ou venez simplement découvrir ce nouveau lieu qui vous est dédié.**
+**ou venez simplement découvrir ce lieu qui vous est dédié.**
 
 3ème Rive est un café associatif géré et animé par des bénévoles.
 
