@@ -2,9 +2,7 @@
 layout: article
 title: A propos de 3ème rive
 ---
-**Votre café associatif 3ème Rive**
-
-**vous accueille au local Ailleurs,** **15 rue Maréchal Lyautey à Epinal**
+**Votre café associatif 3ème Rive vous accueille au local Ailleurs,** **15 rue Maréchal Lyautey à Epinal**
 
 **! Entrée libre !** 
 
@@ -14,35 +12,21 @@ title: A propos de 3ème rive
 
 **Une buvette est à votre disposition : notre principale source de revenu ...**
 
-**Animations, imaginées par VOUS, Habitant-e-s, Associations, Commerçant-e-s, Artistes, Etc …**
+**Des animations imaginées par VOUS, Habitant-e-s, Associations, Commerçant-e-s, Artistes, Etc …**
 
 Conférences, débats, ateliers divers, jeux divers et variés, jeux d'arcade, rencontres, musique, piano, danser, partager, tisser des liens entre associations, entre citoyen-ne-s, réparer, apprendre, échanger, chanter, tricoter, proposer, boîte à livres, participer, …
 
 **! Inventez le programme qui vous convient !**
 
-**Venez vous renseigner, proposer votre aide, une idée, une animation,**
+**Venez vous renseigner, proposer votre aide, une idée, une animation, ou venez simplement découvrir ce lieu qui vous est dédié.**
 
-**ou venez simplement découvrir ce lieu qui vous est dédié.**
+**Vous pouvez proposer vos idées et/ou un coup de main aux bénévoles de l'association.**
 
-3ème Rive est un café associatif géré et animé par des bénévoles.
+Contact : 
 
-L’équipe du projet a imaginé un cadre.
+par mail : [contact@3eme-rive.org](contact@3eme-rive.org) 
 
-**Aujourd’hui, c’est à vous de l’utiliser, de l’animer, de le faire vivre.**
-
-Des bénévoles sont nécessaires pour tenir la buvette
-
-(une source de revenus afin de payer les charges).
-
-Des animations, essence même de 3ème Rive, 
-
-proposées PAR VOUS et POUR VOUS feront la richesse de ce lieu.
-
-Faites le programme qui vous tient à cœur !
-
-**Vous pouvez proposer vos idées et/ou un coup de main**
-
-\- par mail à [contact@3eme-rive.org](contact@3eme-rive.org)
+par messenger depuis la page Facebook : [](https://www.facebook.com/cafeasso)<https://www.facebook.com/cafeasso>
 
 ## A l'origine
 
