@@ -18,15 +18,15 @@ Conférences, débats, ateliers divers, jeux divers et variés, jeux d'arcade, r
 
 **! Inventez le programme qui vous convient !**
 
-**Venez vous renseigner, proposer votre aide, une idée, une animation, ou venez simplement découvrir ce lieu qui vous est dédié.**
+Venez vous renseigner, proposer votre aide, une idée, une animation, ou venez simplement découvrir ce lieu qui vous est dédié.
 
-**Vous pouvez proposer vos idées et/ou un coup de main aux bénévoles de l'association.**
+Vous pouvez proposer vos idées et/ou un coup de main aux bénévoles de l'association.
 
-Contact : 
+**Contact :** 
 
-par mail : [contact@3eme-rive.org](contact@3eme-rive.org) 
+**par mail : [contact@3eme-rive.org](contact@3eme-rive.org)** 
 
-par messenger depuis la page Facebook : [](https://www.facebook.com/cafeasso)<https://www.facebook.com/cafeasso>
+**par messenger depuis la page Facebook : [](https://www.facebook.com/cafeasso)<https://www.facebook.com/cafeasso>**
 
 ## A l'origine
 
