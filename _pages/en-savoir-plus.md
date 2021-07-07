@@ -8,7 +8,7 @@ title: A propos de 3ème rive
 
 **\--> Les Samedis de 11h30 à 19h00**
 
-**Repas partagés le midi**
+**Repas partagé le midi**
 
 **Une buvette est à votre disposition : notre principale source de revenu ...**
 
