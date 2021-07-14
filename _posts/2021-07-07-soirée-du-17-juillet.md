@@ -1,13 +1,19 @@
 ---
 layout: post
-title: Soirée du 17 juillet
+title: festivités du 17 juillet
 date: 2021-07-07T19:23:35.013Z
-image_teaser: /images/uploads/capture-d’écran-2021-07-07-212249.png
+image_teaser: /images/uploads/capture-d’écran-2021-07-14-162042.png
 ---
-Réservez votre soirée du samedi 17 juillet!
+Réservez votre journée et/ou soirée du samedi 17 juillet!
 
+Au programme :
 
-Au programme, à 19 heures : atelier théâtre d'impro avec Catherine Spitz de l'association Ralentir pour vivre
+12 h : repas partagé
 
+14h / 17h30 : jeux
 
-Au menu, à partir de 20 heures : découverte culinaire de soupes du monde
+17h30 / 18h30 : initiation au théâtre d'impro
+
+19h / 19h30 : soupe du monde
+
+19h30 / 2h : soirée
